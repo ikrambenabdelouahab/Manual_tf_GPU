@@ -4,7 +4,7 @@
 
 *07/01/2022*
 
-*Tested successfully on NVIDIA Quadro T1000 with Max-Q Design*
+*Tested successfully on Windows 10 & NVIDIA Quadro T1000 with Max-Q Design*
 
 ## Why manual installation ?
 After many tries to get things done using "conda install tensorflow-gpu", It failed and gives a ton of errors. So I propose doing things manually to save time. And to make sure everything is well installed. This is a manual installation guide of TensorFlow to avoid any kind of errors.
@@ -100,7 +100,7 @@ After many tries to get things done using "conda install tensorflow-gpu", It fai
 (tensorflow) # pip install matplotlib
 ```
 
-##References
+## References
 *	https://github.com/jeffheaton/t81_558_deep_learning/blob/master/install/manual_setup2.ipynb
 *	https://github.com/jeffheaton/t81_558_deep_learning/blob/master/install/manual_setup.ipynb
 *	https://www.youtube.com/watch?v=OEFKlRSd8Ic
